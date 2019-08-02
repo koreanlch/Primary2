@@ -1,7 +1,7 @@
 let support = [
     {display : 's=vt', id : ['s', 'v', 't'], calc : 0},
-    {display : '2as=v^2-v\'^2', id : ['a', 's', 'v', 'v\''], calc : 2},
-    {display : 's=vt+1/2at^2', id : ['s', 'v', 't', 'a', 't'], calc : 3},
+    {display : '2as=v²-v\'²', id : ['a', 's', 'v', 'v\''], calc : 2},
+    {display : 's=vt+1/2at²', id : ['s', 'v', 't', 'a', 't'], calc : 3},
     {display : '평균 속도', id : ['v평', 'v0', 'v'], calc : 4},
     {display : 'F=ma', id : ['F', 'm', 'a'], calc : 0},
     {display : 'I=Ft', id : ['I', 'F', 't'], calc : 0},
